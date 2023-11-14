@@ -7,6 +7,18 @@ h1 {
     color: #333;
 }
 
-video, audio {
+section {
     margin-top: 20px;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+p {
+    color: #555;
+}
+
+video, audio {
+    width: 100%;
 }
